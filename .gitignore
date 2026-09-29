@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.lock
+logs/
+data/bppm_cache
+models_folder/SpliceBERT.1024nt
+*.ckpt
+.DS_Store
