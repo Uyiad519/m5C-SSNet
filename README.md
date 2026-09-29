@@ -46,7 +46,7 @@ conda activate m5C-SSNet_Env
 After creating and activating the environment, download and install m5C-SSNet from GitHub:
 
 ```sh
-git clone https://github.com/CSUBioGroup/m5C-SSNet.git
+git clone https://github.com/Uyiad519/m5C-SSNet.git
 cd m5C-SSNet
 python -m pip install --upgrade pip
 pip install -r requirements.txt
